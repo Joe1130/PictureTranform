@@ -1,0 +1,9 @@
+F:\C#基础\实际开发任务\StocktPictureContract\BL\bin\Debug\BL.dll
+F:\C#基础\实际开发任务\StocktPictureContract\BL\bin\Debug\BL.pdb
+F:\C#基础\实际开发任务\StocktPictureContract\BL\bin\Debug\BaseObject.dll
+F:\C#基础\实际开发任务\StocktPictureContract\BL\bin\Debug\BaseObject.pdb
+F:\C#基础\实际开发任务\StocktPictureContract\BL\obj\Debug\BL.csprojAssemblyReference.cache
+F:\C#基础\实际开发任务\StocktPictureContract\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+F:\C#基础\实际开发任务\StocktPictureContract\BL\obj\Debug\BL.csproj.CopyComplete
+F:\C#基础\实际开发任务\StocktPictureContract\BL\obj\Debug\BL.dll
+F:\C#基础\实际开发任务\StocktPictureContract\BL\obj\Debug\BL.pdb

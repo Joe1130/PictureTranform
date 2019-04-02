@@ -1,0 +1,15 @@
+F:\C#基础\实际开发任务\StocktPictureContract\StocktPictureContract\bin\Debug\StocktPictureContract.exe.config
+F:\C#基础\实际开发任务\StocktPictureContract\StocktPictureContract\bin\Debug\StocktPictureContract.exe
+F:\C#基础\实际开发任务\StocktPictureContract\StocktPictureContract\bin\Debug\StocktPictureContract.pdb
+F:\C#基础\实际开发任务\StocktPictureContract\StocktPictureContract\obj\Debug\StocktPictureContract.csprojAssemblyReference.cache
+F:\C#基础\实际开发任务\StocktPictureContract\StocktPictureContract\obj\Debug\StocktPictureContract.Form1.resources
+F:\C#基础\实际开发任务\StocktPictureContract\StocktPictureContract\obj\Debug\StocktPictureContract.Properties.Resources.resources
+F:\C#基础\实际开发任务\StocktPictureContract\StocktPictureContract\obj\Debug\StocktPictureContract.csproj.GenerateResource.cache
+F:\C#基础\实际开发任务\StocktPictureContract\StocktPictureContract\obj\Debug\StocktPictureContract.csproj.CoreCompileInputs.cache
+F:\C#基础\实际开发任务\StocktPictureContract\StocktPictureContract\obj\Debug\StocktPictureContract.exe
+F:\C#基础\实际开发任务\StocktPictureContract\StocktPictureContract\obj\Debug\StocktPictureContract.pdb
+F:\C#基础\实际开发任务\StocktPictureContract\StocktPictureContract\bin\Debug\BaseObject.dll
+F:\C#基础\实际开发任务\StocktPictureContract\StocktPictureContract\bin\Debug\BL.dll
+F:\C#基础\实际开发任务\StocktPictureContract\StocktPictureContract\bin\Debug\BaseObject.pdb
+F:\C#基础\实际开发任务\StocktPictureContract\StocktPictureContract\bin\Debug\BL.pdb
+F:\C#基础\实际开发任务\StocktPictureContract\StocktPictureContract\obj\Debug\StocktPictureContract.csproj.CopyComplete

@@ -1,0 +1,6 @@
+F:\C#基础\实际开发任务\StocktPictureContract\BaseObject\bin\Debug\BaseObject.dll
+F:\C#基础\实际开发任务\StocktPictureContract\BaseObject\bin\Debug\BaseObject.pdb
+F:\C#基础\实际开发任务\StocktPictureContract\BaseObject\obj\Debug\BaseObject.csproj.CoreCompileInputs.cache
+F:\C#基础\实际开发任务\StocktPictureContract\BaseObject\obj\Debug\BaseObject.dll
+F:\C#基础\实际开发任务\StocktPictureContract\BaseObject\obj\Debug\BaseObject.pdb
+F:\C#基础\实际开发任务\StocktPictureContract\BaseObject\obj\Debug\BaseObject.csprojAssemblyReference.cache
